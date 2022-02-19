@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Discord Badge](https://discord.gg/Ak8ruGaT)](https:google.com)
+[![Discord Badge](https://discord.gg/Ak8ruGaT)](https:braydoncoyer.dev)
 
 
 <!---
